@@ -1,0 +1,26 @@
+PLINK v1.90b6.9 64-bit (4 Mar 2019)
+Options in effect:
+  --bfile hear_lossing
+  --extract top_500_hear_losing_snp_id.txt
+  --out hear_losing_top_500
+  --recode tab
+
+Hostname: gamera
+Working directory: /home/tzutang/2021_BioBank/genotyped
+Start time: Wed Jun 22 08:37:05 2022
+
+Random number seed: 1655858225
+256581 MB RAM detected; reserving 128290 MB for main workspace.
+437264 variants loaded from .bim file.
+5697 people (1546 males, 4151 females) loaded from .fam.
+5697 phenotype values loaded from .fam.
+--extract: 500 variants remaining.
+Using 1 thread (no multithreaded calculations invoked).
+Before main variant filters, 5697 founders and 0 nonfounders present.
+Calculating allele frequencies... done.
+Total genotyping rate is 0.997064.
+500 variants and 5697 people pass filters and QC.
+Among remaining phenotypes, 0 are cases and 5697 are controls.
+--recode ped to hear_losing_top_500.ped + hear_losing_top_500.map ... done.
+
+End time: Wed Jun 22 08:37:05 2022

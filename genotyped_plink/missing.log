@@ -1,0 +1,23 @@
+PLINK v1.90b6.9 64-bit (4 Mar 2019)
+Options in effect:
+  --bfile TWB2_bi_chr
+  --missing
+  --out missing
+
+Hostname: gamera
+Working directory: /home/tzutang/2021_BioBank/genotyped
+Start time: Wed May 11 09:59:51 2022
+
+Random number seed: 1652234391
+256581 MB RAM detected; reserving 128290 MB for main workspace.
+603915 variants loaded from .bim file.
+88339 people (28188 males, 60151 females) loaded from .fam.
+88336 phenotype values loaded from .fam.
+Using 1 thread (no multithreaded calculations invoked).
+Before main variant filters, 88339 founders and 0 nonfounders present.
+Calculating allele frequencies... done.
+Total genotyping rate is 0.991143.
+--missing: Sample missing data report written to missing.imiss, and
+variant-based missing data report written to missing.lmiss.
+
+End time: Wed May 11 10:00:03 2022

@@ -1,0 +1,18 @@
+PLINK v1.90b6.9 64-bit (4 Mar 2019)
+Options in effect:
+  --assoc
+  --bfile TWB2_cleaned
+  --out TWB2_cleaned
+  --pheno hear_losing.pheno
+
+Hostname: gamera
+Working directory: /home/tzutang/2021_BioBank/genotyped
+Start time: Tue Jun 14 10:02:37 2022
+
+Random number seed: 1655172157
+256581 MB RAM detected; reserving 128290 MB for main workspace.
+437264 variants loaded from .bim file.
+88135 people (28153 males, 59982 females) loaded from .fam.
+Error: Line 1 of --pheno file has fewer tokens than expected.
+
+End time: Tue Jun 14 10:02:37 2022

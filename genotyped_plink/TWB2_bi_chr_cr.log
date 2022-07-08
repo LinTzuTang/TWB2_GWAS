@@ -1,0 +1,30 @@
+PLINK v1.90b6.9 64-bit (4 Mar 2019)
+Options in effect:
+  --bfile TWB2_bi
+  --chr 1-22, XY
+  --make-bed
+  --mind 0.05
+  --out TWB2_bi_chr_cr
+
+Hostname: gamera
+Working directory: /home/tzutang/2021_BioBank/genotyped
+Start time: Wed May 11 09:42:09 2022
+
+Random number seed: 1652233329
+256581 MB RAM detected; reserving 128290 MB for main workspace.
+603915 out of 639966 variants loaded from .bim file.
+88339 people (28188 males, 60151 females) loaded from .fam.
+88336 phenotype values loaded from .fam.
+24 people removed due to missing genotype data (--mind).
+IDs written to TWB2_bi_chr_cr.irem .
+Using 1 thread (no multithreaded calculations invoked).
+Before main variant filters, 88315 founders and 0 nonfounders present.
+Calculating allele frequencies... done.
+Total genotyping rate in remaining samples is 0.991157.
+603915 variants and 88315 people pass filters and QC.
+Among remaining phenotypes, 0 are cases and 88312 are controls.  (3 phenotypes
+are missing.)
+--make-bed to TWB2_bi_chr_cr.bed + TWB2_bi_chr_cr.bim + TWB2_bi_chr_cr.fam ...
+done.
+
+End time: Wed May 11 09:42:46 2022
